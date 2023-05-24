@@ -1,4 +1,5 @@
-![1684812572091](image/README1/1684812572091.png)
+![image](https://github.com/HersiYussuf/dsc-phase-3-project/assets/115760894/49130ca9-f743-49c8-954a-86d5a69318c2)
+
 # Business Problem: Predicting the Condition of Water Wells in Tanzania
 
 ## **Introduction:**
